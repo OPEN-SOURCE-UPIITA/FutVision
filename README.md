@@ -64,3 +64,6 @@ para luego abrir la terminal de colab y escribir
 hf auth login
 ```
 y pegar nuestro token de nuestra cuenta de huggingface.
+
+### Reel de Instagram
+https://www.instagram.com/reel/DZzAPXSAKBG/?igsh=MXBpdHF6eDc4enN1cA==
